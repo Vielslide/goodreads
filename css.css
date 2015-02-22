@@ -1,0 +1,31 @@
+* {
+ margin : 0px;
+ padding : 0px;
+}
+body {
+ background-color : ;
+ font-family : ;
+ padding : 0px;
+ margin : 0px;
+}
+#wrapper {
+ background-image : url("images/wrapper.jpg");
+ height : 370px;
+ width : 100%;
+ 
+}
+#img1 img {
+ padding : 20px 0px 0px 150px;
+ width : 194px;
+ height : 43px;
+}
+#img2 img {
+ float : left;
+ padding : 60px 0px 0px 250px;
+ height : 121px;
+ width : 446px;
+}
+#wrapper p  {
+ padding : 20px 250px 0px 0px;
+ float : right;
+}
