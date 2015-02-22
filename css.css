@@ -23,29 +23,52 @@ body {
  width : 194px;
  height : 43px;
 }
+#floor1 {
+ background-color : ;
+ height : 30px;
+ width : 450px;
+}
 #form {
  float : right;
  background-color : ;
  width : 450px;
  height : 65px;
- margin : 5px 120px 0px 0px;
+ margin : 10px 70px 0px 0px;
 }
 #login form {
+ color : ;
  background-color : ;
  float : left;
  padding : 5px 0px 0px 5px; 
 }
 #button {
+ color : ;
  float : left;
  padding : 5px 0px 0px 5px;
  width : px;
  text-align : ; 
 }
-#img2 img {
- float : ;
- padding : 100px 0px 0px px;
- height : 121px;
- width : 446px;
+#floor2 {
+background-color : ;
+height : 30px;
+width : 450px;
+}
+#floor2 form {
+ color : gray;
+ float : left;
+ padding : 5px 0px 0px 10px;
+ width : ;
+}
+#floor2 a {
+ color : gray;
+ background-color : ;
+ float : left;
+ padding : 5px 0px 0px 72px;
+ text-decoration : none;
+ width : 70px;
+}
+#img2 img{
+ margin : 65px 0px 0px 245px;
 }
 #wrapper p  {
  padding : 20px 250px 0px 0px;
