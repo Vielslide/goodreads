@@ -67,8 +67,28 @@ width : 450px;
  text-decoration : none;
  width : 70px;
 }
+#img2 {
+ float : left;
+ margin : 45px 0px 0px 250px;
+ background-color : ;
+ height : 150px;
+ width : 500px;
+}
 #img2 img{
- margin : 65px 0px 0px 245px;
+ padding : 20px 0px 0px 20px;
+}
+#signup {
+ float : right;
+ background-color : red;
+ height : 200px;
+ margin : 10px 150px 0px 0px;
+ width : 300px;
+}
+#signup h3{
+ padding : 5px 0px 0px 5px;
+ float : ;
+ background-color : green;
+ 
 }
 #wrapper p  {
  padding : 20px 250px 0px 0px;
