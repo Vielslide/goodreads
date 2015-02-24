@@ -118,3 +118,34 @@ width : 450px;
  float : left;
  padding-left : 10px;
 }
+#colm {
+ background-color : ;
+ width : 720px;
+ height : 120px;
+ margin : 5px 0px 0px 160px;
+}
+.col {
+ margin :5px;
+ background-color : ;
+ height : 110px;
+ width : 340px;
+}
+#col1 {
+ padding : ;
+ float : left;
+ }
+#col2 {
+ float : left;
+}
+#col1 p{
+ padding :15px;
+ text-align : justify;
+}
+#col2 p{
+ 
+ padding : 15px;
+ text-align : justify;
+}
+#col2 a {
+ text-decoration : none;
+}
