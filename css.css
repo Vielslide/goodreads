@@ -11,7 +11,7 @@ body {
 #wrapper {
  background-image : url("images/wrapper.jpg");
  height : 370px;
- width : 100%;
+ width : 1280px;
 }
 #header {
  background-color : red;
@@ -71,15 +71,16 @@ width : 450px;
  float : left;
  margin : 45px 0px 0px 250px;
  background-color : ;
- height : 150px;
+ height : 200px;
  width : 500px;
 }
 #img2 img{
+ float : left;
  padding : 20px 0px 0px 20px;
 }
 #signup {
  float : right;
- background-color : red;
+ background-color : ;
  height : 200px;
  margin : 10px 150px 0px 0px;
  width : 300px;
@@ -87,10 +88,33 @@ width : 450px;
 #signup h3{
  padding : 5px 0px 0px 5px;
  float : ;
- background-color : green;
+ background-color : ;
+}
+#nav {
+ float : left;
+ background-color : #808A87;
+ height : 50px;
+ width : 300px;
+ margin : 35px 0px 0px 81px;
+ border-radius : 5px;
+}
+#nav p {
+ color : white;
+ float : left;
+ padding : 18px 0px 0px 20px;
+ background-color : ;
+ width : 100px;
+}
+#social {
+ float : left;
+ padding : 13px 0px 0px 10px;
+}
+#social ul {
+ float : ;
+ list-style : none;
  
 }
-#wrapper p  {
- padding : 20px 250px 0px 0px;
- float : right;
+#social ul li {
+ float : left;
+ padding-left : 10px;
 }
