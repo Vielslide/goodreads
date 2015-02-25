@@ -90,6 +90,9 @@ width : 450px;
  float : ;
  background-color : ;
 }
+#signup form {
+ width : 270px;
+}
 #nav {
  float : left;
  background-color : #808A87;
@@ -147,5 +150,38 @@ width : 450px;
  text-align : justify;
 }
 #col2 a {
+ text-decoration : none;
+}
+#footer {
+ height : 70px;
+ width : 1280px;
+ background-color : #F3F2F2;
+ border-top : 1px solid #D0CFCF;
+}
+#copyright {
+ float : left;
+ margin : 20px 0px 0px 100px;
+ background-color : ;
+ height : 20px;
+ width : 140px;
+}
+#option {
+ float : left;
+ background-color : red;
+ height : 20px;
+ width : 500px;
+ margin : 20px 0px 0px 150px;
+}
+#option ul{
+ float : ;
+ list-style : none;
+}
+#option ul li {
+ float : left;
+ text-decoration : none;
+ padding : 5px;
+ border-right : 1px solid gray;
+}
+#option ul li a {
  text-decoration : none;
 }
