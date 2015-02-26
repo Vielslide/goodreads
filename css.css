@@ -153,7 +153,7 @@ width : 450px;
  text-decoration : none;
 }
 #footer {
- height : 70px;
+ height : 60px;
  width : 1280px;
  background-color : #F3F2F2;
  border-top : 1px solid #D0CFCF;
@@ -167,21 +167,39 @@ width : 450px;
 }
 #option {
  float : left;
- background-color : red;
+ background-color : ;
  height : 20px;
- width : 500px;
+ width : 580px;
  margin : 20px 0px 0px 150px;
 }
 #option ul{
  float : ;
  list-style : none;
 }
-#option ul li {
+.inc {
  float : left;
  text-decoration : none;
- padding : 5px;
+ padding-left: 10px ;
+ padding-right : 10px;
  border-right : 1px solid gray;
+ height : 15px;
+}
+.incl {
+ float : left;
+ padding-left : 10px;
 }
 #option ul li a {
+ color : gray;
  text-decoration : none;
+}
+#mobile {
+ float : left;
+ background-color : ;
+ height : 20px;
+ width : 150px;
+ margin : 20px 0px 0px 100px;
+}
+#mobile a {
+ text-decoration : none;
+ color : gray;
 }
